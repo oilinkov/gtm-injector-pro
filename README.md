@@ -35,3 +35,15 @@
 2. Open Google Chrome and go to `chrome://extensions/`.
 3. Enable **Developer mode** in the top-right corner.
 4. Click **Load unpacked** and select your extension folder.
+
+---
+
+## 🧑‍💻 Author
+
+**Oleg Ilinkov**  
+[GitHub](https://github.com/oilinkov)
+[Linkedin](https://www.linkedin.com/in/oleg-ilinkov)
+
+## 📄 License
+
+This project is licensed under the MIT License.
